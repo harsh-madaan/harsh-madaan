@@ -1,6 +1,6 @@
 # Hi, I’m Harsh Madaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">
 
-<p><a href="https://www.linkedin.com/in/harshmadaan97/">
+<p><a href="https://www.linkedin.com/in/harshmadaan97/" target="_blank">
 <img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/linkedin_logo.svg" width="120" height="30">
 <a href="mailto:harshmadaan1997@gmail.com">
 <img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/gmail_logo.svg" width="80" height="30">
