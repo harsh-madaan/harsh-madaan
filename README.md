@@ -1,7 +1,7 @@
 # Hi, I’m Harsh Madaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">
 
 <p><a href="https://www.linkedin.com/in/harshmadaan97/">
-<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+<img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/linkedin_logo.svg" width="120" height="30">
 </a></p>
 
 I'm a Grad Student🎓 at Columbia University pursuing an MS in Business Analytics. 
