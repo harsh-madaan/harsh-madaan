@@ -2,6 +2,8 @@
 
 <p><a href="https://www.linkedin.com/in/harshmadaan97/">
 <img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/linkedin_logo.svg" width="120" height="30">
+<a href="mailto:harshmadaan1997@gmail.com">
+<img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/gmail_logo.svg" width="80" height="30">
 </a></p>
 
 I'm a Grad Student🎓 at Columbia University pursuing an MS in Business Analytics. 
