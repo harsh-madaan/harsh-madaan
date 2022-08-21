@@ -8,7 +8,7 @@
 
 I'm a Grad Student🎓 at Columbia University pursuing an MS in Business Analytics. 
 
-I'm passionate about creating data pipelines and ML models for various business use cases - particularly in the finance industry!  
+I'm passionate about creating data pipelines and ML models for various business use cases - particularly in the BFSI sector!
 
 ## Skill Set
 <ul>
