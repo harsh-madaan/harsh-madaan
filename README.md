@@ -23,11 +23,33 @@ I'm passionate about creating data pipelines and ML models for various business 
   ### Programming Languages
   
   <p>
-  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="50" height="50" alt = "Python"></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="50" height="50" alt = "Java"></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="50" height="50" alt = "SQL"></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" width="50" height="50" alt = "R"></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="50" height="50" title = "Python"></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="50" height="50" title = "Java"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/mysql_logo.png" width="50" height="50" title = "SQL"></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" width="50" height="50" title = "R"></kbd>
   </p>
+  
+   ### Tools
+  
+  <p>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="50" height="50" title = "AWS"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/sagemaker_logo.png" width="50" height="50" title = "AWS SageMaker"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/tableau_logo.png" width="50" height="50" title = "Tableau"></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="50" height="50" title = "Docker"></kbd>
+  </p>
+  <p>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/abinitio_logo.png" width="50" height="50" title = "Git"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/salesforce_logo.png" width="50" height="50" title = "Salesforce"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/teradata_logo.png" width="50" height="50" title = "Teradata"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/hadoop_logo.png" width="50" height="50" title = "Hadoop"></kbd>
+  </p>
+  <p>
+  <kbd><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50" height="50" title = "Git"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/heroku_logo.png" width="50" height="50" title = "Heroku"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/flask_logo.png" width="50" height="50" title = "Flask"></kbd>
+  <kbd><img src="https://github.com/harsh-madaan/harsh-madaan/blob/main/images/android_sdk_logo.png" width="50" height="50" title = "Android SDK"></kbd>
+  </p>
+  
   
   
 <!---
