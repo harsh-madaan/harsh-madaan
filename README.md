@@ -1,8 +1,14 @@
-Hi, I’m Harsh Madaan 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Harsh Madaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">
+
+<p><a href="https://www.linkedin.com/in/harshmadaan97/">
+<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+</a></p>
+
+I'm a Grad Student🎓 at Columbia University pursuing an MS in Business Analytics. 
+
+I'm passionate about creating data pipelines and ML models for various business use cases - particularly in the finance industry!  
+
+
 
 <!---
 harsh-madaan/harsh-madaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
